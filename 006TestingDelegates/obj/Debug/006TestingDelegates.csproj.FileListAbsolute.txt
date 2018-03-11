@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\Git2\async-programming-in-c-sharp\006TestingDelegates\bin\Debug\006TestingDelegates.dll
+C:\Users\Alex\Desktop\Git2\async-programming-in-c-sharp\006TestingDelegates\bin\Debug\006TestingDelegates.pdb
+C:\Users\Alex\Desktop\Git2\async-programming-in-c-sharp\006TestingDelegates\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Alex\Desktop\Git2\async-programming-in-c-sharp\006TestingDelegates\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Alex\Desktop\Git2\async-programming-in-c-sharp\006TestingDelegates\obj\Debug\006TestingDelegates.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Git2\async-programming-in-c-sharp\006TestingDelegates\obj\Debug\006TestingDelegates.dll
+C:\Users\Alex\Desktop\Git2\async-programming-in-c-sharp\006TestingDelegates\obj\Debug\006TestingDelegates.pdb
